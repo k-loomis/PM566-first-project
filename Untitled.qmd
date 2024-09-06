@@ -1,0 +1,14 @@
+---
+title: "PM566_class_2_demo"
+author: "Katie"
+format: html
+---
+
+## Quarto
+
+```{r}
+library(datasauRus)
+library(tidyverse)
+```
+
+## Random text
